@@ -11,7 +11,7 @@ A slightly more robust version of the native django redirect
 
 """
 import os
-from distutils.core import setup
+from setuptools import setup
 
 __version__ = "0.1"
 
